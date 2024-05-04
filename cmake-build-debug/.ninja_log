@@ -1,0 +1,7 @@
+# ninja log v5
+7	1949	7363807125521139	CMakeFiles/image_processing.dir/main.cpp.obj	dbebf3f3fca7e811
+1949	2062	7363807126650980	image_processing.exe	ee41c99bd63b50c5
+12	616	7363610826136984	CMakeFiles/image_processing.dir/test.cpp.obj	25bc1d0cbd7b0d37
+2	215	7365520629526060	build.ninja	d63c7b5249960a89
+15	4033	7365525904962304	CMakeFiles/image_processing.dir/main.cpp.obj	dbebf3f3fca7e811
+4035	4592	7365525910570002	image_processing.exe	ee41c99bd63b50c5
